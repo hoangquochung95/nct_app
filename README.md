@@ -8,6 +8,8 @@ For window
    
   Run php server : php -S localhost:8000 -t public
   
+  Install nodejs : https://nodejs.org/en/
+  
   Open frontend folder and install node modules: npm install
   
   Start vue server : npm run serve

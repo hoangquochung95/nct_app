@@ -4,6 +4,12 @@ For window
   
   Install composer : https://getcomposer.org/
   
+  Create database : nct_crawler
+  
+  Set .env file or use .env.example
+  
+  Run : php artisan migrate 
+  
   Open backend folder and run composer : composer install 
    
   Run php server : php -S localhost:8000 -t public
